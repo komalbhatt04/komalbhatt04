@@ -41,15 +41,11 @@ I specialize in helping startups and SMEs transform their ideas and business pro
 [![Stripe](https://img.shields.io/badge/-Stripe-008CDD?logo=stripe&logoColor=white)](https://stripe.com/)  
 [![PayPal](https://img.shields.io/badge/-PayPal-003087?logo=paypal&logoColor=white)](https://developer.paypal.com/)  
 
----
-
 ## Project Management Frameworks  
 [![Scrum](https://img.shields.io/badge/-Scrum-00BFFF?logo=scrumalliance&logoColor=white)](https://www.scrum.org/)  
 [![Kanban](https://img.shields.io/badge/-Kanban-008000?logo=kanban&logoColor=white)](https://kanbanize.com/kanban-resources/getting-started/what-is-kanban)  
 [![SDLC](https://img.shields.io/badge/-SDLC-FF4500?logo=developerboard&logoColor=white)](https://en.wikipedia.org/wiki/Systems_development_life_cycle)  
 [![Waterfall](https://img.shields.io/badge/-Waterfall-1E90FF?logo=waterfall&logoColor=white)](https://www.productplan.com/glossary/waterfall-methodology/)  
-
----
 
 ## Project Management Tools  
 [![JIRA](https://img.shields.io/badge/-JIRA-0052CC?logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)  
@@ -60,8 +56,6 @@ I specialize in helping startups and SMEs transform their ideas and business pro
 [![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white)](https://www.notion.so/)  
 [![Trello](https://img.shields.io/badge/-Trello-0079BF?logo=trello&logoColor=white)](https://trello.com/)  
 
----
-
 ## AI Development Tools  
 [![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?logo=github&logoColor=white)](https://github.com/features/copilot)  
 [![Cursor](https://img.shields.io/badge/-Cursor-0088CC?logo=cursor&logoColor=white)](https://www.cursor.so/)  
@@ -70,8 +64,6 @@ I specialize in helping startups and SMEs transform their ideas and business pro
 📊 GitHub Analytics Markdown with URLs  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=komal-innopad&color=brightgreen)  
-
----
 
 ## Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/komal-bhatt-851a4298/)
