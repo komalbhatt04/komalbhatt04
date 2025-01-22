@@ -3,7 +3,7 @@
 ## About Me
 I specialize in helping startups and SMEs transform their ideas and business processes into automated software, web, and mobile applications.  
 
-- 🔭 I’m currently working at **[Spencers and Spirit Halloween](https://www.spencersandspiritjobs.com/)** as **Senior Software Engineer* & **Part-Time Freelancer** at **[Upwork](https://www.upwork.com/freelancers/~01745d599451259696)**
+- 🔭 I’m currently working at **[Spencers and Spirit Halloween](https://www.spencersandspiritjobs.com/)** as **Senior Software Engineer** & **Part-Time Freelancer** at **[Upwork](https://www.upwork.com/freelancers/~01745d599451259696)**
 - 🌱 I’m learning **AI Integrations and AI Web and Mobile App Development using Python, LLM, ML**  
 - 👯 I’m looking to collaborate with **startups and SMEs who want to convert their ideas and business processes into automated digital solutions.**  
 - 🤔 I’m looking for help with **LLM and ML Integrations for Agent Development.**  
