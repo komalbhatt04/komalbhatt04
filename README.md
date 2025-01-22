@@ -3,12 +3,12 @@
 ## About Me
 I specialize in helping startups and SMEs transform their ideas and business processes into automated software, web, and mobile applications.  
 
-- 🔭 I’m currently working at **[Spencers and Spirit Halloween](https://www.spencersandspiritjobs.com/)** as **Senior Software Engineer** & **Part-Time Freelancer** at **[Upwork](https://www.upwork.com/freelancers/~01745d599451259696)**
-- 🌱 I’m learning **AI Integrations and AI Web and Mobile App Development using Python, LLM, ML**  
-- 👯 I’m looking to collaborate with **startups and SMEs who want to convert their ideas and business processes into automated digital solutions.**  
-- 🤔 I’m looking for help with **LLM and ML Integrations for Agent Development.**  
-- 💬 Ask me about **I specialize in full-stack development for .NET-based web, mobile, and desktop applications, as well as MERN and MEAN stack solutions. With decade years of experience in custom software development, I excel in transforming ideas into robust digital products tailored to meet business needs. My expertise spans all stages of the development lifecycle, from MVP creation to scalable, production-ready deployments.I am proficient in leveraging frameworks like React, Node.js, Express, and Angular to create dynamic front-end and back-end solutions. For enterprise-level applications, I bring deep knowledge of .NET Core, .NET MVC, and .NET MAUI, allowing me to build efficient and secure systems for web, mobile, and desktop platforms.My development experience is complemented by hands-on cloud expertise with AWS and Azure, enabling seamless deployment and scaling of applications. Whether it's crafting intuitive user interfaces, developing APIs, or implementing third-party integrations, I am committed to delivering high-quality solutions that drive business success.**  
-- 📫 How to reach me: **komalbhatt@innopadsolutions.com**  
+- 🔭 **I’m currently working at** [Spencers and Spirit Halloween](https://www.spencersandspiritjobs.com/) as Senior Software Engineer & Part-Time Freelancer at [Upwork](https://www.upwork.com/freelancers/~01745d599451259696)
+- 🌱 **I’m learning** AI Integrations and AI Web and Mobile App Development using Python, LLM, ML
+- 👯 **I’m looking to collaborate with** startups and SMEs who want to convert their ideas and business processes into automated digital solutions.  
+- 🤔 **I’m looking for help with** LLM and ML Integrations for Agent Development. 
+- 💬 **Ask me about ** I specialize in full-stack development for .NET-based web, mobile, and desktop applications, as well as MERN and MEAN stack solutions. With decade years of experience in custom software development, I excel in transforming ideas into robust digital products tailored to meet business needs. My expertise spans all stages of the development lifecycle, from MVP creation to scalable, production-ready deployments.I am proficient in leveraging frameworks like React, Node.js, Express, and Angular to create dynamic front-end and back-end solutions. For enterprise-level applications, I bring deep knowledge of .NET Core, .NET MVC, and .NET MAUI, allowing me to build efficient and secure systems for web, mobile, and desktop platforms.My development experience is complemented by hands-on cloud expertise with AWS and Azure, enabling seamless deployment and scaling of applications. Whether it's crafting intuitive user interfaces, developing APIs, or implementing third-party integrations, I am committed to delivering high-quality solutions that drive business success.
+- 📫 **How to reach me:** komalbhatt@innopadsolutions.com
 
 ## Technologies & Tools  
 
